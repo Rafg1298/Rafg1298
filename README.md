@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafg1298
-- 👀 I’m interested in Coding, mostly front end dev
-- 🌱 I’m currently learning front end dev and some full stack
+- 👀 I’m very interested in Data Science
+- 🌱 I’m currently learning Data Analytics/Management at WGU, centered around Python and R and their respective libraries
 
 <!---
 Rafg1298/Rafg1298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
